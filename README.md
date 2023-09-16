@@ -1,7 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+
+### 💬About me
+
+💬I am Aomiya Yuka. this is my handle.  
+💼 I am a software developer/programmer👩‍💻 and illustrator👩‍🎨 by profession.
+
+### 🌱Qualification
+
+- Information Technology Passport Examination
+- Information Security Management Examination
 
 <!--
-**yuka0632/yuka0632** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuka0625/yuka0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
